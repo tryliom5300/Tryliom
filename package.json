@@ -1,0 +1,32 @@
+{
+  "name": "Tryliom",
+  "version": "2.3.0",
+  "description": "music bot",
+  "main": "BrussellBot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node BrussellBot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryliom5300/Tryliom"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "author": "agubelu",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tryliom5300/Tryliom/issues"
+  },
+  "dependencies": {
+    "discord.js": "^11.0.0"
+
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "homepage": "https://github.com/tryliom5300/TryliomBot#readme"
+}
